@@ -1,0 +1,4 @@
+PyGObject==3.40.1
+setuptools==56.2.0
+requests==2.25.1
+symbl==1.0.0
