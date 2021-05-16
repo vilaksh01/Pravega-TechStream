@@ -1,7 +1,7 @@
 # KONNEX UPDESH
 <b>Pitch Sentence:</b> <i>Imagine a yoga teacher, sets up camera or edge device to stream video to his students; pose detection, sentiment analysis, conversation transcript models running for students and school authority to see the performance and interaction of teachers with students and make parents understand teachers commitment during this pandemic.</i>
 <pre>
-<img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Cover.png"> 
+<img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Cover.png">
 </pre>
 Konnex Updesh means <b>Connecting Guidance</b>  
 <br>
@@ -18,3 +18,4 @@ Remote learning generates massive amounts of unstructured data and there is a ne
 <pre>
 <img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Working.png">
 </pre>
+# Technology Stacks
