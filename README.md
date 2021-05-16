@@ -22,7 +22,7 @@ Here's the simple steps:
 
 # Install
 The Pravega client library can be installed using pip.
-<div>pip install pravega</div>
+<pre>pip install pravega</pre>
 
 # Future Works
 Many of the features mentioned could not be implemented due to lack of time, this project was started for a three day hackathon and we ran into lot of technical issues and we lacked skills in solving those on time. Some of GStreamer Pravega features would require future patch updates to remove some bugs and file flush issues.
