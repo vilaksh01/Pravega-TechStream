@@ -61,6 +61,7 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 $ rustup update
 #Add to ~/.bashrc:
 $ export PATH="$HOME/.cargo/bin:$PATH"
+$ source ~/.bashrc
 </pre>
 
 # Future Works
