@@ -21,8 +21,18 @@ Here's the simple steps:
 </pre>
 
 # Install
-The Pravega client library can be installed using pip.
-<pre>pip install pravega</pre>
+1. Let's install Pravega and start in standalone-mode
+<pre>
+$ wget https://github.com/pravega/pravega/releases/download/v0.9.0/pravega-0.9.0.tgz
+$ tar zxvf pravega-0.9.0.tgz
+$ cd pravega-0.9.0
+</pre>
+Launch Pravega in your first terminal:
+<pre>$ ./bin/pravega-standalone</pre>
+
+2. The Pravega client library can be installed using pip.
+<pre>$ pip install pravega</pre>
+
 
 # Future Works
 Many of the features mentioned could not be implemented due to lack of time, this project was started for a three day hackathon and we ran into lot of technical issues and we lacked skills in solving those on time. Some of GStreamer Pravega features would require future patch updates to remove some bugs and file flush issues.
