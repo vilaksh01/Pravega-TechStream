@@ -16,5 +16,5 @@ Remote learning generates massive amounts of unstructured data and there is a ne
 2. Read data streams from Pravega anywhere and run Symbl.ai NLP APIs for sentiment, speech, conversation analysis.
 3. Store performance analytics results for the system admins
 <pre>
-<img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Solution.png">
+<img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Working.png">
 </pre>
