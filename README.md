@@ -33,6 +33,35 @@ Launch Pravega in your first terminal:
 2. The Pravega client library can be installed using pip.
 <pre>$ pip install pravega</pre>
 
+3. Install GStreamer for Ubuntu
+<pre>
+$ git clone --recursive https://github.com/pravega/gstreamer-pravega
+$ cd gstreamer-pravega
+$ git submodule update --recursive --init
+
+$ sudo apt-get install \
+    gstreamer1.0-plugins-base \
+    gstreamer1.0-plugins-good \
+    gstreamer1.0-plugins-bad \
+    gstreamer1.0-plugins-ugly \
+    gstreamer1.0-libav \
+    libatk1.0-dev \
+    libcairo-dev \
+    libges-1.0-dev \
+    libgstreamer1.0-dev \
+    libgstreamer-plugins-base1.0-dev \
+    libgstreamer-plugins-bad1.0-dev \
+    libgstrtspserver-1.0-dev \
+    libgtk2.0-dev \
+    libgtk-3-dev \
+    libpango1.0-dev
+
+#Install rust
+$ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+$ rustup update
+#Add to ~/.bashrc:
+$ export PATH="$HOME/.cargo/bin:$PATH"
+</pre>
 
 # Future Works
 Many of the features mentioned could not be implemented due to lack of time, this project was started for a three day hackathon and we ran into lot of technical issues and we lacked skills in solving those on time. Some of GStreamer Pravega features would require future patch updates to remove some bugs and file flush issues.
