@@ -1,9 +1,9 @@
-# KONNEX UPDESH
+# UPDESH
 <b>Pitch Sentence:</b> <i>Imagine a yoga teacher, sets up camera or edge device to stream video to his students; pose detection, sentiment analysis, conversation transcript models running for students and school authority to see the performance and interaction of teachers with students and make parents understand teachers commitment during this pandemic.</i>
 <pre>
 <img src="https://github.com/vilaksh01/Pravega-TechStream/blob/main/Images/Cover.png">
 </pre>
-Konnex Updesh means <b>Connecting Guidance</b>  
+Updesh means <b>Connecting Guidance</b>  
 <br>
 # Problem
 Bringing educational content quality control for schools to monitor and get insights from realtime online classes. Providing schools real measures to improve engagement among students and teachers. The world has sifted massively towards online platforms like zoom, google meet and classrooms to ensure that education of students is not harmed due to ongoing pandemic. High speed internet has been a big savior during this time, from rapid medical advancements to logistics everything is powered by data. However, we still needs to understand that schools has been playing foundation roles in any child's career development and future teaching prospects lies with more flexibility in terms of teaching without compromising quality lessons and sessions. Schools are having hard times getting control over the quality teaching in remote classes and teachers promotions are harder than ever- 'no matter how hard a teacher tries, remote classes without any metrics and data analytics schools can't trust.' Only data can help us find real caveats with their teachings, engagements and commitments. So let's harness the <b>UNBOUNDED DATA</b>
